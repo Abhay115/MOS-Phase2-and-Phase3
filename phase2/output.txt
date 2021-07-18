@@ -1,0 +1,28 @@
+No error
+IR: H   
+IC= 1
+TI= 0  PI=0  SI=3
+TTC= 1   TTL= 4   TLC= 0   TLL= 1
+
+
+Operand error
+IR: GDzz
+IC= 1
+TI= 0  PI=2  SI=1
+TTC= 0   TTL= 4   TLC= 0   TLL= 1
+
+
+Operation code error
+IR: KD10
+IC= 1
+TI= 0  PI=1  SI=0
+TTC= 0   TTL= 4   TLC= 0   TLL= 1
+
+
+Operand error
+IR: GDzz
+IC= 1
+TI= 0  PI=2  SI=1
+TTC= 0   TTL= 4   TLC= 0   TLL= 1
+
+

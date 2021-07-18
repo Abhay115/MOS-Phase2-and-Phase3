@@ -1,0 +1,42 @@
+Program Terminated Abnormally
+Operand Error
+IC = 0	IR = GDxx	
+TLC = 0		TTC = 0
+
+
+Program Terminated Abnormally
+Time Limit Exceeded
+IC = 2	IR = SR20*   	
+TLC = 0		TTC = 5
+
+
+HELLO WORLD                             
+Program Terminated Abnormally
+Line Limit Exceeded
+IC = 3	IR = PD10	
+TLC = 2	TTC = 4
+
+
+HELLO WORLD                             
+IC = 2	IR = H   	
+TLC = 1		TTC = 4
+
+
+Program Terminated Abnormally
+Out of Data
+IC = 1	IR = GD10	
+TLC = 0	TTC = 2
+
+
+Program Terminated Abnormally
+Invalid Page Fault
+IC = 2	IR = PD20	
+TLC = 1	TTC = 3
+
+
+Program Terminated Abnormally
+Operation Code Error
+IC = 0	IR = KD20	
+TLC = 0		TTC = 1
+
+
